@@ -82,7 +82,6 @@
 .work {
   width: 400px;
   height: 380px;
- =
 }
 .work-image img {
   width: 100%;
@@ -101,7 +100,6 @@
   flex-wrap: wrap;
   gap: 20px;
 }
-.contact-info{
+.contact-info {
   max-width: 500px;
 }
-
