@@ -70,3 +70,38 @@
   margin-left: 10px;
   margin-right: 10px;
 }
+.mywork {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  gap: 20px;
+}
+.work {
+  width: 400px;
+  height: 380px;
+ =
+}
+.work-image img {
+  width: 100%;
+}
+.work-description {
+  text-align: center;
+}
+.contact {
+  background: lightblue;
+  margin-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.contact-info{
+  max-width: 500px;
+}
+
